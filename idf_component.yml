@@ -1,0 +1,5 @@
+version: "0.1.0"
+description: "Unofficial Grok Bot protocol SDK for ESP32"
+license: MIT
+dependencies:
+  idf: ">=5.5.2"
